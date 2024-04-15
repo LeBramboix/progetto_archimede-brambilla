@@ -1,0 +1,17 @@
+header {
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    margin-top: 5px;
+    width: 100px;   
+}
+
+nav ul.menu {
+    list-style-type: none;
+    display: flex;
+    gap: 15px;
+}

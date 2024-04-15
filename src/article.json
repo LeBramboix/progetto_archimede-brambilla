@@ -1,0 +1,116 @@
+[
+  {
+    "image": "https://media.imagonist.com/products/products/279_thumb_it.png?v=1707235479",
+    "date": "4.00€",
+    "likes": 10,
+    "title": "Pollo Tender Crispy",
+    "isLiked": true
+  },
+  {
+    "image": "https://media.imagonist.com/products/products/273_thumb_it.png?v=1694072721",
+    "date": "4.00€",
+    "likes": 20,
+    "title": "Los Pollos COB Original Recipe",
+    "isLiked": true
+  },
+  {
+    "image": "https://media.imagonist.com/products/products/296_thumb_it.png?v=1693556625",
+    "date": "4.00€",
+    "likes": 15,
+    "title": "Los Pollos Hot Wings",
+    "isLiked": true
+  },
+  {
+    "image": "https://media.imagonist.com/products/products/280_thumb_it.png?v=1691497263",
+    "date": "4.00€",
+    "likes": 18,
+    "title": "Los Pollos Tender Original Recipe",
+    "isLiked": false
+  },
+  {
+    "image": "https://media.imagonist.com/products/products/347_thumb_it.png?v=1694066475",
+    "date": "7.90€",
+    "likes": 25,
+    "title": "Classic Original",
+    "isLiked": true
+  },
+  {
+    "image": "https://media.imagonist.com/products/products/358_thumb_it.png?v=1694066679",
+    "date": "8.20€",
+    "likes": 12,
+    "title": "Los Pollos Classic Zinger",
+   
+    "isLiked": false
+  },
+  {
+    "image": "https://media.imagonist.com/products/products/359_thumb_it.png?v=1694077675",
+    "date": "10.00€",
+    "likes": 30,
+    "title": "Los Pollos Grilled Chicken",
+    "isLiked": true
+  },
+  {
+    "image": "https://media.imagonist.com/products/products/360_thumb_it.png?v=1696949335",
+    "date": "11.50€",
+    "likes": 22,
+    "title": "Los Pollos Colonel's Burger",
+    "isLiked": false
+  },
+  {
+    "image": "https://media.imagonist.com/products/products/361_thumb_it.png?v=1694073182",
+    "date": "13.00€",
+    "likes": 17,
+    "title": "Lo Pollos Double Colonel's Burger",
+    "isLiked": false 
+  },
+  {
+    "image": "https://media.imagonist.com/products/products/348_thumb_it.png?v=1694073246",
+    "date": "11.50€",
+    "likes": 17,
+    "title": "Los Pollos Kentucky Cheese And Bacon",
+    "isLiked": false 
+  },
+  {
+    "image": "https://media.imagonist.com/products/products/349_thumb_it.png?v=1694073355",
+    "date": "13.00€",
+    "likes": 17,
+    "title": "Los Pollos Double Kentucky Cheese And Bacon",
+    "isLiked": false 
+  },
+  {
+    "image": "https://media.imagonist.com/products/products/367_thumb_it.png?v=1705945965",
+    "date": "11.50€",
+    "likes": 17,
+    "title": "Los Pollos Kentucky BBQ and Bacon",
+    "isLiked": false 
+  },
+  {
+    "image": "https://media.imagonist.com/products/products/368_thumb_it.png?v=1705392337",
+    "date": "13.00€",
+    "likes": 17,
+    "title": "Los Pollos Double Kentucky BBQ And Bacon",
+    "isLiked": false 
+  },
+
+  {
+    "image": "https://media.imagonist.com/products/products/323_thumb_it.png?v=1712044198",
+    "date": "12.00€",
+    "likes": 0,
+    "title": "Los Pollos Twisted Original",
+    "isLiked": false 
+  },
+  {
+    "image": "https://media.imagonist.com/products/products/324_thumb_it.png?v=1712044190",
+    "date": "12.50€",
+    "likes": 0,
+    "title": "Los Pollos Twisted Grilled",
+    "isLiked": false 
+  },
+  {
+    "image": "https://media.imagonist.com/products/products/325_thumb_it.png?v=1712044182",
+    "date": "12.50€",
+    "likes": 0,
+    "title": "Los Pollos Twisted Crispy",
+    "isLiked": false 
+  }
+]
